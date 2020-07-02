@@ -1,0 +1,161 @@
+.bg-image{
+    max-width: 100vw;
+    background-color: #FFCDD2;  
+}
+
+
+.menu-nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.bg-logo{
+    width: 150px;
+    height: 50px;
+    background-image: url(../images/logo2.png);
+    background-repeat: no-repeat;
+    background-size: 140px;
+    margin-left: 50px;
+}
+
+.menu-nav nav {
+    display: flex;
+}
+
+.menu-nav nav a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+    display: flex;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.menu{
+    display: flex;
+}
+
+.menu li{
+    margin-left: 5px;
+}
+
+.menu li a{
+    display: block;
+    padding: 10px;
+}
+
+.menu hr{
+    font-size: 20px;
+
+}
+
+
+.conteudo{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-bottom: 90px;
+}
+
+.cont{
+    margin-top: 60px;
+    width: 745px;
+    flex-wrap: wrap;
+}
+
+.cont p{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 60px;
+}
+
+.cont h1{
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-left: 60px;
+}
+
+.cont h2{
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+    padding-top: 40px;
+    padding-left: 60px;
+}
+
+.img-tec{
+    width: 550px;
+    height: 300px;
+    margin-top: 110px;
+    background-image: url(../images/note1.png);
+    background-repeat: no-repeat;
+    background-size: 550px;
+    flex-wrap: wrap;
+}
+
+.bt-planos{
+    margin-left: 60px;
+    margin-top: 35px;
+    width: 200px;
+    height: 50px;
+    background-color: #1EB954;
+    border: 0px;
+    border-radius: 50px;
+    
+}
+
+.bt-planos a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    padding: 5px;
+    letter-spacing: 2px;
+}
+
+.bg-premium{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+    padding: 50px;
+}
+
+.bg-icon1{
+}
+
+.icons{
+}
+
+
+.bg-icon1{
+    width: 250px;
+    height: 250px;
+    margin-left: 80px;
+    
+}
+
+.icon{
+    background-image: url(../images/icon.1.png);
+    background-repeat: no-repeat;
+    background-size: 160px;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    background-position: center;
+}
+
+.bg-icon1 h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+}
+
+.bg-icon1 h2{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
